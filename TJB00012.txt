@@ -1,0 +1,7 @@
+hi water purifier
+increase  temperature
+timer half hour
+rotation on
+turn off sconce
+query the humidity
+set thirty degrees
